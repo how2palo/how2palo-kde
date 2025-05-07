@@ -40,7 +40,7 @@
 
 ---
 
-- **`VPALO-Deco`** (*Plasma Window Decoration*): My work is based on [`vinceliuice`](https://github.com/vinceliuice/MacSonoma-kde)'s work. **Thank you** for your time and effort.
+- **`how2palo`** (*Plasma Window Decoration*): My work is based on [`vinceliuice`](https://github.com/vinceliuice/MacSonoma-kde)'s work. **Thank you** for your time and effort.
 
 ---
 
