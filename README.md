@@ -1,4 +1,4 @@
-<h1 align="center">⚡ PΛLΘ' GNU/Linux🐧 Customizations⚙️ for KDE Plasma</h1>
+<h1 align="center">⚡ PΛLΘ's Customizations⚙️ for KDE Plasma🐧</h1>
 
 ---
 
