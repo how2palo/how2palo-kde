@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=how2palo
+Comment=Decoració de les finestres personalitzada
+Type=Service
+X-KDE-ServiceTypes=KWin/Decoration
+X-KDE-Library=aurorae
+X-KDE-PluginInfo-Name=how2palo
+X-KDE-PluginInfo-Author=Palo
+X-KDE-PluginInfo-Email=null@gmail.com
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=GPL_V3
+X-KDE-PluginInfo-EnabledByDefault=true
